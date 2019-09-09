@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa0cd1f-fbe9-4be1-8bdb-132ba3f6dea9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/admin_manager/billview/BillTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/admin_manager/billview/BillTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/admin_manager/billview/RowBill.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/admin_manager/billview/RowBill.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/admin_manager/billview/BillTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="192" selection-start-line="192" selection-end-line="192" />
+              <folding>
+                <element signature="n#!!block;n#constructor#0;n#BillTable#0" />
+                <element signature="n#!!block;n#componentDidMount#0;n#BillTable#0" />
+                <element signature="e#484#1005#0" />
+                <element signature="e#527#644#0" />
+                <element signature="e#554#630#0" />
+                <element signature="e#676#889#0" />
+                <element signature="e#804#873#0" />
+                <element signature="e#919#997#0" />
+                <element signature="e#1044#1577#0" />
+                <element signature="e#1074#1153#0" />
+                <element signature="e#1168#1312#0" />
+                <element signature="e#1493#1569#0" />
+                <element signature="e#1626#3353#0" />
+                <element signature="e#2920#3018#0" />
+                <element signature="e#3119#3345#0" />
+                <element signature="e#3230#3331#0" />
+                <element signature="e#2842#2858#0" />
+                <element signature="e#3208#3306#0" />
+                <element signature="e#3407#3633#0" />
+                <element signature="e#3518#3619#0" />
+                <element signature="e#4098#4114#0" />
+                <element signature="e#3390#3666#0" />
+                <element signature="e#3419#3660#0" />
+                <element signature="e#3692#3843#0" />
+                <element signature="e#3775#3835#0" />
+                <element signature="e#3871#4217#0" />
+                <element signature="e#4004#4160#0" />
+                <element signature="e#4032#4128#0" />
+                <element signature="e#4243#4587#0" />
+                <element signature="e#4376#4532#0" />
+                <element signature="e#4404#4500#0" />
+                <element signature="e#4607#4767#0" />
+                <element signature="e#4705#4741#0" />
+                <element signature="e#4793#5921#0" />
+                <element signature="e#4824#5904#0" />
+                <element signature="e#4869#5302#0" />
+                <element signature="e#4894#5280#0" />
+                <element signature="e#4983#5175#0" />
+                <element signature="e#5023#5145#0" />
+                <element signature="e#5363#5866#0" />
+                <element signature="e#5392#5840#0" />
+                <element signature="e#5489#5713#0" />
+                <element signature="e#5533#5679#0" />
+                <element signature="e#6203#6683#0" />
+                <element signature="e#6264#6648#0" />
+                <element signature="e#6322#6451#0" />
+                <element signature="e#6817#7125#0" />
+                <element signature="e#6939#7041#0" />
+                <element signature="e#7204#7508#0" />
+                <element signature="e#7324#7424#0" />
+                <element signature="e#8054#8388#0" />
+                <element signature="e#8190#8279#0" />
+                <element signature="e#8444#10177#0" />
+                <element signature="e#8510#8660#0" />
+                <element signature="e#8689#10146#0" />
+                <element signature="e#8750#10059#0" />
+                <element signature="e#8979#9617#0" />
+                <element signature="e#9023#9572#0" />
+                <element signature="e#9654#10018#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/admin_manager/productview/EditProduct.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="431" column="40" selection-start-line="431" selection-start-column="32" selection-end-line="431" selection-end-column="40" />
+              <folding>
+                <element signature="n#!!block;n#constructor#0;n#EditProduct#0" />
+                <element signature="e#330#419#0" />
+                <element signature="n#!!block;n#componentDidMount#0;n#EditProduct#0" />
+                <element signature="e#696#1279#0" />
+                <element signature="e#712#870#0" />
+                <element signature="e#897#1133#0" />
+                <element signature="e#1015#1117#0" />
+                <element signature="e#1161#1271#0" />
+                <element signature="e#1316#1592#0" />
+                <element signature="e#1345#1586#0" />
+                <element signature="e#1623#2198#0" />
+                <element signature="e#2223#2654#0" />
+                <element signature="e#2680#4962#0" />
+                <element signature="e#2889#3003#0" />
+                <element signature="e#3156#3271#0" />
+                <element signature="e#3424#3539#0" />
+                <element signature="e#3688#3801#0" />
+                <element signature="e#3956#4072#0" />
+                <element signature="e#4221#4334#0" />
+                <element signature="e#4489#4605#0" />
+                <element signature="e#4764#4885#0" />
+                <element signature="e#5060#5201#0" />
+                <element signature="e#5270#5366#0" />
+                <element signature="e#5435#6412#0" />
+                <element signature="e#6441#7066#0" />
+                <element signature="e#6551#6737#0" />
+                <element signature="e#6764#6954#0" />
+                <element signature="e#6982#7058#0" />
+                <element signature="e#7110#7248#0" />
+                <element signature="e#7148#7242#0" />
+                <element signature="e#7255#7290#0" />
+                <element signature="e#7318#7533#0" />
+                <element signature="e#7416#7505#0" />
+                <element signature="e#7558#8192#0" />
+                <element signature="e#7715#7886#0" />
+                <element signature="e#7928#8132#0" />
+                <element signature="n#!!block;n#callApiUploadImage#0;n#EditProduct#0" />
+                <element signature="e#8328#8522#0" />
+                <element signature="e#8549#8873#0" />
+                <element signature="e#8901#9002#0" />
+                <element signature="e#9036#9227#0" />
+                <element signature="e#9107#9186#0" />
+                <element signature="e#9233#9268#0" />
+                <element signature="e#9290#12023#0" />
+                <element signature="e#9321#12006#0" />
+                <element signature="e#9459#9649#0" />
+                <element signature="e#9666#11987#0" />
+                <element signature="e#9710#11743#0" />
+                <element signature="e#9760#9987#0" />
+                <element signature="e#9809#9956#0" />
+                <element signature="e#10012#11716#0" />
+                <element signature="e#10061#10267#0" />
+                <element signature="e#10296#10504#0" />
+                <element signature="e#10533#10741#0" />
+                <element signature="e#10770#10974#0" />
+                <element signature="e#11003#11213#0" />
+                <element signature="e#11242#11446#0" />
+                <element signature="e#11475#11685#0" />
+                <element signature="e#11764#11964#0" />
+                <element signature="e#12215#12398#0" />
+                <element signature="e#12415#12607#0" />
+                <element signature="e#12668#16698#0" />
+                <element signature="e#12718#13818#0" />
+                <element signature="e#12767#13075#0" />
+                <element signature="e#12826#13040#0" />
+                <element signature="e#13104#13562#0" />
+                <element signature="e#13640#13787#0" />
+                <element signature="e#13843#16671#0" />
+                <element signature="e#13892#14258#0" />
+                <element signature="e#14014#14223#0" />
+                <element signature="e#14287#14656#0" />
+                <element signature="e#14410#14621#0" />
+                <element signature="e#14685#15054#0" />
+                <element signature="e#14808#15019#0" />
+                <element signature="e#15083#15446#0" />
+                <element signature="e#15204#15411#0" />
+                <element signature="e#15475#15847#0" />
+                <element signature="e#15599#15812#0" />
+                <element signature="e#15876#16239#0" />
+                <element signature="e#15997#16204#0" />
+                <element signature="e#16268#16640#0" />
+                <element signature="e#16392#16605#0" />
+                <element signature="e#17236#17387#0" />
+                <element signature="n#!!block;n#render#0;n#EditProduct#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/admin_manager/billview/BillView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/admin_manager/billview/RowBill.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="80" column="68" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="68" />
+              <folding>
+                <element signature="n#!!block;n#constructor#0;n#RowBill#0" />
+                <element signature="e#215#304#0" />
+                <element signature="e#337#393#0" />
+                <element signature="e#421#591#0" />
+                <element signature="e#628#1225#0" />
+                <element signature="e#644#838#0" />
+                <element signature="e#865#1113#0" />
+                <element signature="e#1141#1217#0" />
+                <element signature="e#1262#1538#0" />
+                <element signature="e#1291#1532#0" />
+                <element signature="e#1567#1773#0" />
+                <element signature="e#1627#1675#0" />
+                <element signature="e#1681#1739#0" />
+                <element signature="e#1799#1972#0" />
+                <element signature="e#1866#1937#0" />
+                <element signature="e#2269#2449#0" />
+                <element signature="e#2517#3437#0" />
+                <element signature="e#2542#3415#0" />
+                <element signature="e#2618#2852#0" />
+                <element signature="e#2877#3121#0" />
+                <element signature="e#3146#3385#0" />
+                <element signature="e#3454#4363#0" />
+                <element signature="e#3479#3797#0" />
+                <element signature="e#3508#3771#0" />
+                <element signature="e#3818#4341#0" />
+                <element signature="e#3847#4315#0" />
+                <element signature="e#3898#4101#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/assets/css/mainProduct.css" />
+        <option value="$PROJECT_DIR$/src/components/MainProduct/Header.js" />
+        <option value="$PROJECT_DIR$/src/components/MainProduct/Home.js" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/components/admin_manager/productview/ProductView.js" />
+        <option value="$PROJECT_DIR$/src/components/admin_manager/productview/ProductTable.js" />
+        <option value="$PROJECT_DIR$/src/assets/css/bill.css" />
+        <option value="$PROJECT_DIR$/src/components/MainProduct/BillDetail.js" />
+        <option value="$PROJECT_DIR$/src/components/admin_manager/billview/BillInformation.js" />
+        <option value="$PROJECT_DIR$/src/components/admin_manager/billview/BillView.js" />
+        <option value="$PROJECT_DIR$/src/components/admin_manager/billview/BillTable.js" />
+        <option value="$PROJECT_DIR$/src/components/admin_manager/billview/RowBill.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="y" value="237" />
+    <option name="width" value="1190" />
+    <option name="height" value="641" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="billview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="productview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="MainProduct" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa0cd1f-fbe9-4be1-8bdb-132ba3f6dea9" name="Default Changelist" comment="" />
+      <created>1561559199957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561559199957</updated>
+      <workItem from="1561559223630" duration="7394000" />
+      <workItem from="1561601252332" duration="10985000" />
+      <workItem from="1561620720017" duration="4110000" />
+      <workItem from="1561686297772" duration="10843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51341000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="25" width="1311" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2853755" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50039524" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49960473" weight="0.32736155" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24980237" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32899022" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/MainProduct/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="91" column="72" lean-forward="true" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainProduct/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainProduct/InforProduct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin_manager/productview/ProductView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin_manager/productview/ProductTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#ProductTable#0" />
+            <element signature="e#926#1001#0" />
+            <element signature="e#1024#1831#0" />
+            <element signature="e#1867#2143#0" />
+            <element signature="e#2177#3473#0" />
+            <element signature="e#3493#3656#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/bill.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/mainproduct.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/cart.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainProduct/BillDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin_manager/billview/BillInformation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin_manager/billview/BillView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin_manager/productview/EditProduct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="431" column="40" selection-start-line="431" selection-start-column="32" selection-end-line="431" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#EditProduct#0" />
+            <element signature="e#330#419#0" />
+            <element signature="n#!!block;n#componentDidMount#0;n#EditProduct#0" />
+            <element signature="e#696#1279#0" />
+            <element signature="e#712#870#0" />
+            <element signature="e#897#1133#0" />
+            <element signature="e#1015#1117#0" />
+            <element signature="e#1161#1271#0" />
+            <element signature="e#1316#1592#0" />
+            <element signature="e#1345#1586#0" />
+            <element signature="e#1623#2198#0" />
+            <element signature="e#2223#2654#0" />
+            <element signature="e#2680#4962#0" />
+            <element signature="e#2889#3003#0" />
+            <element signature="e#3156#3271#0" />
+            <element signature="e#3424#3539#0" />
+            <element signature="e#3688#3801#0" />
+            <element signature="e#3956#4072#0" />
+            <element signature="e#4221#4334#0" />
+            <element signature="e#4489#4605#0" />
+            <element signature="e#4764#4885#0" />
+            <element signature="e#5060#5201#0" />
+            <element signature="e#5270#5366#0" />
+            <element signature="e#5435#6412#0" />
+            <element signature="e#6441#7066#0" />
+            <element signature="e#6551#6737#0" />
+            <element signature="e#6764#6954#0" />
+            <element signature="e#6982#7058#0" />
+            <element signature="e#7110#7248#0" />
+            <element signature="e#7148#7242#0" />
+            <element signature="e#7255#7290#0" />
+            <element signature="e#7318#7533#0" />
+            <element signature="e#7416#7505#0" />
+            <element signature="e#7558#8192#0" />
+            <element signature="e#7715#7886#0" />
+            <element signature="e#7928#8132#0" />
+            <element signature="n#!!block;n#callApiUploadImage#0;n#EditProduct#0" />
+            <element signature="e#8328#8522#0" />
+            <element signature="e#8549#8873#0" />
+            <element signature="e#8901#9002#0" />
+            <element signature="e#9036#9227#0" />
+            <element signature="e#9107#9186#0" />
+            <element signature="e#9233#9268#0" />
+            <element signature="e#9290#12023#0" />
+            <element signature="e#9321#12006#0" />
+            <element signature="e#9459#9649#0" />
+            <element signature="e#9666#11987#0" />
+            <element signature="e#9710#11743#0" />
+            <element signature="e#9760#9987#0" />
+            <element signature="e#9809#9956#0" />
+            <element signature="e#10012#11716#0" />
+            <element signature="e#10061#10267#0" />
+            <element signature="e#10296#10504#0" />
+            <element signature="e#10533#10741#0" />
+            <element signature="e#10770#10974#0" />
+            <element signature="e#11003#11213#0" />
+            <element signature="e#11242#11446#0" />
+            <element signature="e#11475#11685#0" />
+            <element signature="e#11764#11964#0" />
+            <element signature="e#12215#12398#0" />
+            <element signature="e#12415#12607#0" />
+            <element signature="e#12668#16698#0" />
+            <element signature="e#12718#13818#0" />
+            <element signature="e#12767#13075#0" />
+            <element signature="e#12826#13040#0" />
+            <element signature="e#13104#13562#0" />
+            <element signature="e#13640#13787#0" />
+            <element signature="e#13843#16671#0" />
+            <element signature="e#13892#14258#0" />
+            <element signature="e#14014#14223#0" />
+            <element signature="e#14287#14656#0" />
+            <element signature="e#14410#14621#0" />
+            <element signature="e#14685#15054#0" />
+            <element signature="e#14808#15019#0" />
+            <element signature="e#15083#15446#0" />
+            <element signature="e#15204#15411#0" />
+            <element signature="e#15475#15847#0" />
+            <element signature="e#15599#15812#0" />
+            <element signature="e#15876#16239#0" />
+            <element signature="e#15997#16204#0" />
+            <element signature="e#16268#16640#0" />
+            <element signature="e#16392#16605#0" />
+            <element signature="e#17236#17387#0" />
+            <element signature="n#!!block;n#render#0;n#EditProduct#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin_manager/billview/BillTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#BillTable#0" />
+            <element signature="n#!!block;n#componentDidMount#0;n#BillTable#0" />
+            <element signature="e#484#1005#0" />
+            <element signature="e#527#644#0" />
+            <element signature="e#554#630#0" />
+            <element signature="e#676#889#0" />
+            <element signature="e#804#873#0" />
+            <element signature="e#919#997#0" />
+            <element signature="e#1044#1577#0" />
+            <element signature="e#1074#1153#0" />
+            <element signature="e#1168#1312#0" />
+            <element signature="e#1493#1569#0" />
+            <element signature="e#1626#3353#0" />
+            <element signature="e#2920#3018#0" />
+            <element signature="e#3119#3345#0" />
+            <element signature="e#3230#3331#0" />
+            <element signature="e#2842#2858#0" />
+            <element signature="e#3208#3306#0" />
+            <element signature="e#3407#3633#0" />
+            <element signature="e#3518#3619#0" />
+            <element signature="e#4098#4114#0" />
+            <element signature="e#3390#3666#0" />
+            <element signature="e#3419#3660#0" />
+            <element signature="e#3692#3843#0" />
+            <element signature="e#3775#3835#0" />
+            <element signature="e#3871#4217#0" />
+            <element signature="e#4004#4160#0" />
+            <element signature="e#4032#4128#0" />
+            <element signature="e#4243#4587#0" />
+            <element signature="e#4376#4532#0" />
+            <element signature="e#4404#4500#0" />
+            <element signature="e#4607#4767#0" />
+            <element signature="e#4705#4741#0" />
+            <element signature="e#4793#5921#0" />
+            <element signature="e#4824#5904#0" />
+            <element signature="e#4869#5302#0" />
+            <element signature="e#4894#5280#0" />
+            <element signature="e#4983#5175#0" />
+            <element signature="e#5023#5145#0" />
+            <element signature="e#5363#5866#0" />
+            <element signature="e#5392#5840#0" />
+            <element signature="e#5489#5713#0" />
+            <element signature="e#5533#5679#0" />
+            <element signature="e#6203#6683#0" />
+            <element signature="e#6264#6648#0" />
+            <element signature="e#6322#6451#0" />
+            <element signature="e#6817#7125#0" />
+            <element signature="e#6939#7041#0" />
+            <element signature="e#7204#7508#0" />
+            <element signature="e#7324#7424#0" />
+            <element signature="e#8054#8388#0" />
+            <element signature="e#8190#8279#0" />
+            <element signature="e#8444#10177#0" />
+            <element signature="e#8510#8660#0" />
+            <element signature="e#8689#10146#0" />
+            <element signature="e#8750#10059#0" />
+            <element signature="e#8979#9617#0" />
+            <element signature="e#9023#9572#0" />
+            <element signature="e#9654#10018#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin_manager/billview/RowBill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="80" column="68" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="68" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#RowBill#0" />
+            <element signature="e#215#304#0" />
+            <element signature="e#337#393#0" />
+            <element signature="e#421#591#0" />
+            <element signature="e#628#1225#0" />
+            <element signature="e#644#838#0" />
+            <element signature="e#865#1113#0" />
+            <element signature="e#1141#1217#0" />
+            <element signature="e#1262#1538#0" />
+            <element signature="e#1291#1532#0" />
+            <element signature="e#1567#1773#0" />
+            <element signature="e#1627#1675#0" />
+            <element signature="e#1681#1739#0" />
+            <element signature="e#1799#1972#0" />
+            <element signature="e#1866#1937#0" />
+            <element signature="e#2269#2449#0" />
+            <element signature="e#2517#3437#0" />
+            <element signature="e#2542#3415#0" />
+            <element signature="e#2618#2852#0" />
+            <element signature="e#2877#3121#0" />
+            <element signature="e#3146#3385#0" />
+            <element signature="e#3454#4363#0" />
+            <element signature="e#3479#3797#0" />
+            <element signature="e#3508#3771#0" />
+            <element signature="e#3818#4341#0" />
+            <element signature="e#3847#4315#0" />
+            <element signature="e#3898#4101#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,85 @@
+/*các xử lý responsived*/
+.mainLogin {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+/*--------------------------------------------------------*/
+.mainLogin .registrationFrom {
+    padding-bottom: 20px;
+    width: 30%;
+    margin: 60px auto 0px auto;
+    border: 1px solid #ccc ;
+}
+
+.mainLogin .title {
+    font-family: MYRIADPRO-BOLD;
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+    font-size: 25px;
+    padding: 10px 0 0 0;
+}
+
+.mainLogin .row input {
+    outline: none;
+    border: none;
+    width: 85%;
+    margin: 20px auto;
+    font-size: 14px;
+    padding: 10px 10px;
+    display: block;
+    border-bottom: 1px solid #ccc ;
+}
+
+.mainLogin .contror {
+    width: 100%;
+}
+
+.mainLogin  #login {
+    text-align: center;
+    background: #ccc;
+    display: block;
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+    padding: 10px 0;
+    text-align: center;
+    width: 90%;
+    margin:0 auto;
+    transition: all 0.5s;
+}
+
+.mainLogin  #login:hover {
+    background: #999;
+    color: #eee;
+}
+.mainLogin #message{
+    text-align: center;
+    color:red;
+    margin-top:40px;
+    font-size: 18px;
+}
+
+#content{
+   width: 100%;
+   height: 350px;
+   border: 1px solid #eeefef;
+   background: #f8f9fa;
+    
+}
+#content form{
+    margin: auto;
+    margin: 50px 10px 10px 10px;
+    position:absolute;
+    top: 75%;
+    left: 35%;
+    width:30em;
+}
+
+#message{
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    color: red;
+    margin-top: 30px;
+}
